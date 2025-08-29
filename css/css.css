@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+ul.nav{
+    list-style: none;
+    margin: 0px;
+    
+}
+ul.nav li{
+    float: right;
+    
+}
+ul.nav li a{
+    display: block;
+    margin: 5px;
+    padding: 20px;
+    text-decoration: none; /* {الغاء الخط السفلي}
+    */
+    color: aliceblue;
+
+} 
+.m1{
+    float: left;
+}
+div.p1{
+    font-size: 10px;
+    color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+ }
+ .pp{
+    color: aliceblue;
+    display: inline-block;
+    transform: rotate(-90deg);
+ }
+
