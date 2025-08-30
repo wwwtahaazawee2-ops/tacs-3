@@ -22,11 +22,12 @@ ul.nav li a{
 .m1{
     float: left;
 }
-div.p1{
+div.p1 ul{
     font-size: 10px;
     color: aliceblue;
     text-align: center;
     font-size: 30px;
+    list-style: none;
  }
  .pp{
     color: aliceblue;
