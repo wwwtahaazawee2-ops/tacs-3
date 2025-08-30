@@ -33,5 +33,55 @@ div.p1 ul{
     color: aliceblue;
     display: inline-block;
     transform: rotate(-90deg);
+    font-size: 30px;
+    
+    
  }
+  table {
+      border-collapse: collapse;
+      width: 70%;
+      margin: 10px auto;
+      color: aliceblue;
+      
+    
+    }
+     td {
+      border: 1px solid #444;
+      padding: 40px;
+
+      
+    }
+ td ,h2 {
+      
+      text-align: center;
+      
+    }
+    td .p3{
+        text-align: left;
+    }
+    div.sq2{
+        width: 100px;
+        height: 100px;
+        background-color: rgb(176, 37, 181);
+    }
+    div.sq1{
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        background-color: green;
+    }
+.pp{
+     margin: 10px;
+    padding: 1px;
+}
+    div.pp2{
+        margin-left: 2%;
+        margin-bottom: -1%;
+     }
+     div.im1{
+        margin-left: 16%;
+        color: aliceblue
+     
+     }
+    
 
