@@ -165,7 +165,21 @@ margin: 0% 0% 34% -10%;
     color: aliceblue;
     margin: 0% 0% 0% 50%;
 }
-
+.d4{
+    color: aliceblue;
+    transform: rotate(-90deg);
+    text-align: center;
+    margin: 0% 0% 0% -60%;
+}
+.im10{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    
+}
+.tb2{
+    color: aliceblue;
+}
 
 
 
